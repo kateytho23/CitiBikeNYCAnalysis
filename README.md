@@ -1,11 +1,16 @@
 # CitiBikeNYCAnalysis
-Task 6.1
+
 Citi Bike Data Set
 Source – The source I used for this data was Kaggle and was based on Citi Bike. Kaggle is a trusted website so this source can be trusted.
+
 Collection – The data was collected through company and usage-based data. Whenever anyone uses a Citi Bike the company can gather information from the customer’s app. This information can be geographical, time based, age of customer, and what customer type they fall into. There is a high chance the data is up to date with limited lag because of the data being immediately updated based on app usage.
+
 Contents: This data is from riders from May 2013 to October 2013. Each observation has its own unique identifier. The day, start time, end times, trip duration, start station id, start station name, start station latitude, start station longitude, end station id, end station name, end station latitude, end station longitude, bike ID, birth year of rider, user type (Customer = 24-hour pass or 3-day pass user; subscriber = annual member), and gender (zero = unknown; 1 = male; 2 = female) are the characteristics available for each observation. There are 50,000 observations with a total of 18 characteristics.
+
 Limitations: There is no rider specific ID so there is no way to determine if any riders had more then one trip. Also, the fact that there is only 50,000 observations leads to the possibility that not all rides were recorded or are included in this data set. 
+
 Ethics: There are no ethical concerns because this data is public information that can be found on Citi Bike’s website and it states that they follow the NYCBS Data Use Policy and their Data License Agreement, so with both of those being followed there is no concern for breach of personal privacy,
+
 Relevance: This data was provided in the CareerFoundry brief for this project, so I feel confident in it’s relevance to this project. 
 Data Profile
 
