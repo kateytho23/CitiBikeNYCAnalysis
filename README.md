@@ -1,4 +1,5 @@
 # CitiBikeNYCAnalysis
+Objective: Determine which hours and days are the busiest for optimal bike placement.
 
 Citi Bike Data Set
 Source – The source I used for this data was Kaggle and was based on Citi Bike. Kaggle is a trusted website so this source can be trusted.
